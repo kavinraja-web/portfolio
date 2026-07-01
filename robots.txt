@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://kavinrajadeveloper.netlify.app/sitemap.xml
+Sitemap: https://kavinrajadevloper.netlify.app/sitemap.xml
